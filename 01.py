@@ -1,8 +1,5 @@
 
 
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 """
 ZetCode Tkinter tutorial
 
